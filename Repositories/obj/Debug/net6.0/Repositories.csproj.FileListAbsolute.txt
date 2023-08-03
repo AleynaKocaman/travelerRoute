@@ -1,0 +1,15 @@
+C:\Users\Aleyna Kocaman\Desktop\Proje\travelerRoute\Repositories\bin\Debug\net6.0\Repositories.deps.json
+C:\Users\Aleyna Kocaman\Desktop\Proje\travelerRoute\Repositories\bin\Debug\net6.0\Repositories.dll
+C:\Users\Aleyna Kocaman\Desktop\Proje\travelerRoute\Repositories\bin\Debug\net6.0\Repositories.pdb
+C:\Users\Aleyna Kocaman\Desktop\Proje\travelerRoute\Repositories\bin\Debug\net6.0\Entities.dll
+C:\Users\Aleyna Kocaman\Desktop\Proje\travelerRoute\Repositories\bin\Debug\net6.0\Entities.pdb
+C:\Users\Aleyna Kocaman\Desktop\Proje\travelerRoute\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\Aleyna Kocaman\Desktop\Proje\travelerRoute\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleyna Kocaman\Desktop\Proje\travelerRoute\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\Aleyna Kocaman\Desktop\Proje\travelerRoute\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+C:\Users\Aleyna Kocaman\Desktop\Proje\travelerRoute\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Aleyna Kocaman\Desktop\Proje\travelerRoute\Repositories\obj\Debug\net6.0\Repositories.csproj.CopyComplete
+C:\Users\Aleyna Kocaman\Desktop\Proje\travelerRoute\Repositories\obj\Debug\net6.0\Repositories.dll
+C:\Users\Aleyna Kocaman\Desktop\Proje\travelerRoute\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+C:\Users\Aleyna Kocaman\Desktop\Proje\travelerRoute\Repositories\obj\Debug\net6.0\Repositories.pdb
+C:\Users\Aleyna Kocaman\Desktop\Proje\travelerRoute\Repositories\obj\Debug\net6.0\ref\Repositories.dll
